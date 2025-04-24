@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Content Services Expert with 20+ Years of Experience, A seasoned leader driving robust content solutions to meet critical regulatory mandates, including SEC 17a-4, CFTC, BCBS, and beyond. Proven expertise in building scalable systems for Risk Reports, KYC documents, Procedures, Agreements, and end-to-end content lifecycle
+management. Skilled in integrating content platforms with digital solutions, OCR, AI/ML, and cloud-ready architectures. Adept at leading dynamic, cross-location teams to deliver future-proof solutions thatreduce risk, ensure compliance, and empower business growth. Proven record as Design Authority, Application Ownership, and people & stakeholder management; while staying hands-on (~60% allocation) and delivering software. Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
